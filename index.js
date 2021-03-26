@@ -27,5 +27,5 @@ bot.start(async (ctx) => {
 
 bot.help((ctx) => ctx.reply('Send me a sticker'))
 bot.on('sticker', (ctx) => ctx.reply('👍'))
-bot.hears('хуй', (ctx) => ctx.reply('Хуй зер'))
+bot.hears('hi', (ctx) => ctx.reply('Hi, how are you?'))
 bot.launch();
