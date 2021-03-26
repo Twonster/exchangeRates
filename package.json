@@ -4,8 +4,7 @@
   "description": "Telegram bot which show Exchange Rates from PrivatBank API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leybov Anton",
   "license": "ISC",
